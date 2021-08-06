@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  /* Style the header */
+  header {
+    background-color: #666;
+    padding: 10px;
+    text-align: center;
+    font-size: 10px;
+    color: white;
+    top: 0;
+  }
+  
+  /* Create two columns/boxes that floats next to each other */
+  /*  */
+  
+  /* Style the list inside the menu */
+   ul {
+    list-style-type: none;
+    padding: 0;
+  }
+   ul li {
+      float: left;
+  }
+  
+  
